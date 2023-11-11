@@ -1,1 +1,1 @@
-from testing_out.maths.functions import Mathematics
+from python_test.maths.functions import Mathematics
