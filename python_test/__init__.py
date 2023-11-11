@@ -1,1 +1,1 @@
-from helloworld2 import HelloWorld
+from python_test.helloworld2 import HelloWorld
